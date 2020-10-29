@@ -1,0 +1,7 @@
+D:\Tejas-Test\WorkForceLogiqTest\bin\Debug\WorkForceLogiqTest.exe.config
+D:\Tejas-Test\WorkForceLogiqTest\bin\Debug\WorkForceLogiqTest.exe
+D:\Tejas-Test\WorkForceLogiqTest\bin\Debug\WorkForceLogiqTest.pdb
+D:\Tejas-Test\WorkForceLogiqTest\obj\Debug\WorkForceLogiqTest.csprojAssemblyReference.cache
+D:\Tejas-Test\WorkForceLogiqTest\obj\Debug\WorkForceLogiqTest.csproj.CoreCompileInputs.cache
+D:\Tejas-Test\WorkForceLogiqTest\obj\Debug\WorkForceLogiqTest.exe
+D:\Tejas-Test\WorkForceLogiqTest\obj\Debug\WorkForceLogiqTest.pdb
